@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/usama-cute-checker/static/css/main.d4ec31bf.css",
-    "main.js": "/usama-cute-checker/static/js/main.d0099daa.js",
+    "main.js": "/usama-cute-checker/static/js/main.e77e3d17.js",
     "index.html": "/usama-cute-checker/index.html",
     "main.d4ec31bf.css.map": "/usama-cute-checker/static/css/main.d4ec31bf.css.map",
-    "main.d0099daa.js.map": "/usama-cute-checker/static/js/main.d0099daa.js.map"
+    "main.e77e3d17.js.map": "/usama-cute-checker/static/js/main.e77e3d17.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ec31bf.css",
-    "static/js/main.d0099daa.js"
+    "static/js/main.e77e3d17.js"
   ]
 }
