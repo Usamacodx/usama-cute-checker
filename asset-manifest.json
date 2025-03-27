@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usama-cute-checker/static/css/main.d4ec31bf.css",
+    "main.js": "/usama-cute-checker/static/js/main.d0099daa.js",
+    "index.html": "/usama-cute-checker/index.html",
+    "main.d4ec31bf.css.map": "/usama-cute-checker/static/css/main.d4ec31bf.css.map",
+    "main.d0099daa.js.map": "/usama-cute-checker/static/js/main.d0099daa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ec31bf.css",
+    "static/js/main.d0099daa.js"
+  ]
+}
