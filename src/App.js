@@ -76,7 +76,7 @@ function App() {
       </div>
       {showMessage && (
         <div className="message">
-          Awwwww Amna I knew it but thanks so sweet ❤️
+          Awwwww I knew it but thanks so sweet ❤️
         </div>
       )}
     </div>
